@@ -1,4 +1,4 @@
-package com.allinone.arrays;
+package com.ds.arrays;
 
 import java.util.HashMap;
 
